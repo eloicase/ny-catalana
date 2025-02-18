@@ -144,6 +144,8 @@ Es pot imprimir les plantilles de /templates en un full autoadhesiu, retallar i 
 <a name="Enllaços"></a>
 ## Enllaços
 
+- Mantinc el català https://mantincelcatala.cat
+
 - Input Remapper https://github.com/sezanzeb/input-remapper
 <p align="center">
 <a href="https://github.com/sezanzeb/input-remapper" target="_blank">
