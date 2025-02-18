@@ -8,10 +8,10 @@
 | [**Historial**](https://github.com/eloicase/enya-catalana#Historial) 
 | [**Introducció**](#Introducció)
 | [**Instal·lació**](#Instal·lació)
-| [**Programari**](https://github.com/FunAudioLLM/InspireMusic#QuickStart)
-| [**Maquinari**](https://github.com/FunAudioLLM/InspireMusic#Tutorial)
-| [**Contacte**](https://github.com/FunAudioLLM/InspireMusic#Models)
-| [**Agraiments**](https://github.com/FunAudioLLM/InspireMusic#Contact)
+| [**Programari**](https://github.com/eloicase/enya-catalana#Programari)
+| [**Maquinari**](https://github.com/eloicase/enya-catalana#Maquinari)
+| [**Contacte**](https://github.com/eloicase/enya-catalana#Contacte)
+| [**Agraïments**](https://github.com/eloicase/enya-catalana#Agraïments)
 
 
 ---
@@ -28,7 +28,7 @@ El projecte **Enya Catalana** vol ser un repositori per centralitzar tots els re
 <a name="Introduction"></a>
 ## Introducció
 
-<p style="text-align: center;"></p>_"     El senyor i la senyora Campmany dels Hostalets de Balenyà feia anys que anyoraven un bany a l'estany de la muntanya ja que tenien una cabanya feta de llenya amb vinyes i senyalitzada per un senyal amb una pinya amb pinyons i el text 'Seny i rauxa', dissenyat a gran tamany i que van comprar enganyats, tot i que era un bunyol i va costar un ronyó."_</p>
+_<p style="text-align: center;"></p>"     El senyor i la senyora Campmany dels Hostalets de Balenyà feia anys que anyoraven un bany a l'estany de la muntanya ja que tenien una cabanya feta de llenya amb vinyes i senyalitzada per un senyal amb una pinya amb pinyons i el text 'Seny i rauxa', dissenyat a gran tamany i que van comprar enganyats, tot i que era un bunyol i va costar un ronyó."</p>_
 
 
 Els catalanoparlants i "catalanoescribents" ens hem acostumat a utilitzar "de facto" el teclat en castellà que inclou una lletra que MAI farem servir: la **ñ**.
@@ -67,19 +67,19 @@ En cas que no sigui factible substituir facilment la tecla es proposa com a pla 
 - Descarregar el repositori
 
 ``` sh
-git clone  https://github.com/eloicase/enya-catalana.git
+git clone https://github.com/eloicase/enya-catalana.git
 
 ```
 
-- Fer doble click per instal·lar
+- Fer doble click en el teclat customitzat triat per instal·lar
 ``` sh
-˜/Users/username/enya-catalana/MacOS/Catalan-senyera
+~/Users/username/enya-catalana/MacOS/Catalan-senyera
 
 ```
 
 - o copiarlo manualment a
 ``` sh
-˜/Users/username/Library/Keyboard Layouts
+~/Users/username/Library/Keyboard Layouts
 ```
 
 - Activar el teclat desde
@@ -89,7 +89,21 @@ Preferències del Sistema -> Teclat -> Dispositius d'entrada
 
 Un cop activat ja es podrà fer servir desde el menú teclats de la barra superior.
 
+### Entorn Linux Ubuntu/Debian
 
+El procés és un xic més complicat però si es segueixen els passos és facil de seguir.
+
+### Entorn Windows
 
 > [!Note]
-> This repo contains the algorithm infrastructure and some simple examples. Currently only support English text prompts.
+> Actualment no es té accés a una maquina windows i s'enten que hi ha d'haver una sol·lució similar per poder activar configuracions de teclat customitzades. Aquest repositori queda obert a la comunitat per afegir la versió Windows del teclat customitzat que generi NY enlloc de Ñ.
+
+### Entorn iOS
+
+El teclat dels iPhones i iPads és configurable en català, tot i que no es pot configurar facilment els teclats perque es generi el digraf 'ny'. 
+
+### Entorn Android
+
+> [!Note]
+> Al igual que en Windows, no es té access a un dispositiu Android per provar. s'enten que tindrà un funcionament similar a iOS en quan als teclats.
+
