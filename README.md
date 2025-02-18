@@ -33,7 +33,7 @@ _<div style="margin-left: auto;
             margin-right: auto;
             width: 30%"><p style="text-align: center;"></p>"	El senyor i la senyora Campmany dels Hostalets de Balenyà feia anys que anyoraven un bany a l'estany de la muntanya ja que hi tenien una cabanya feta de llenya, amb vinyes i senyalitzada per un senyal amb una pinya amb pinyons i el text 'Seny i rauxa', dissenyat a gran tamany i que van comprar enganyats, tot i que era un bunyol i va costar un ronyó."</p></div>_
 
-<br><br>
+<br>
 
 Els catalanoparlants i "catalanoescribents" ens hem acostumat a utilitzar "de facto" el teclat en castellà que inclou una lletra que MAI farem servir: la **ñ**.
 En canvi, en català, la enya (ny) sempre ha estat a l'ombra de la ce trencada i de la ela geminada com a lletres insignes del català, tot i que, en general, es facin servir molt menys que la enya. Desde aqui es vol reinvindicar la enya catalana fins i tot en els nostres teclats.
@@ -46,7 +46,7 @@ Aixó, més que solucions, son pedaços a mitges i malauradament estem acostumat
 Es per això que aquest repositori vol ser una solució que aglutini els recursos per posar remei als seguents punts:
 
 - Utilitzar el teclat plenament en català.
-- Desfer-se de la lletra **ñ** del teclat i utititzar el grafisme propi del català: **ny**.
+- Desfer-se de la lletra **ñ** del teclat i utilitzar el grafisme propi del català: **ny**.
 - Que la resta de tecles del teclat funcionin com estem acostumats.
 
 
@@ -56,11 +56,11 @@ Per arreglar la situació s'ha d'afrontar el problema desde el punt de vista de 
 ## Instal·lació
 
 ### Programari
-Es proposa utilitzar una configuració de teclat customitzat que al premer la tecla **Ñ** el teclat generi directament **NY**.
+Es proposa utilitzar una configuració de teclat customitzat que al prémer la tecla **Ñ** el teclat generi directament **NY**.
 
 ### Maquinari
 Substituïr la tecla en questió per una que mostri el que realment escriu un cop feta la modificació del programari (aplicable basicament a teclats mecànics).
-En cas que no sigui factible substituir facilment la tecla es proposa com a pla B generar adhesius en forma de tecla que es pugui posar a sobre de la **Ñ**.
+En cas que no sigui factible substituir facilment la tecla es proposa, com a pla B, generar adhesius en forma de tecla que es pugui enganxar a sobre de la tecla **Ñ**.
 
 
 <a name="Programari"></a>
