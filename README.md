@@ -1,2 +1,5 @@
-# enya-catalana
-Mantinc el català. També al meu teclat amb la enya catalana!
+[//]: # (# InspireMusic)
+<p align="center">
+ <a href="https://github.com/eloicase/enya-catalana" target="_blank">
+        <img alt="logo" src="./asset/banner.png" width="100%"></a>
+</p>
