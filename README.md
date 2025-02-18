@@ -11,13 +11,14 @@
 | [**Programari**](https://github.com/eloicase/enya-catalana#Programari)
 | [**Maquinari**](https://github.com/eloicase/enya-catalana#Maquinari)
 | [**Enllaços**](https://github.com/eloicase/enya-catalana#Enllaços)
+| [**Comunitat**](https://github.com/eloicase/enya-catalana#Comunitat)
 | [**Agraïments**](https://github.com/eloicase/enya-catalana#Agraïments)
 
 
 ---
 <a name="Highligts"></a>
 ## Abstract
-El projecte **Enya Catalana** vol ser un repositori per centralitzar tots els recursos per customitzar els teclats QWERTY llatí castellà sustituïnt la lletra Ñ pel dígraf NY.
+El projecte **Enya Catalana** vol ser un repositori per centralitzar tots els recursos per customitzar els teclats QWERTY llatí en castellà sustituïnt la lletra Ñ pel dígraf NY.
 
 
 
@@ -30,9 +31,9 @@ El projecte **Enya Catalana** vol ser un repositori per centralitzar tots els re
 
 _<div style="margin-left: auto;
             margin-right: auto;
-            width: 30%"><p style="text-align: center;"></p>"     El senyor i la senyora Campmany dels Hostalets de Balenyà feia anys que anyoraven un bany a l'estany de la muntanya ja que hi tenien una cabanya feta de llenya, amb vinyes i senyalitzada per un senyal amb una pinya amb pinyons i el text 'Seny i rauxa', dissenyat a gran tamany i que van comprar enganyats, tot i que era un bunyol i va costar un ronyó."</p></div>_
+            width: 30%"><p style="text-align: center;"></p>"	El senyor i la senyora Campmany dels Hostalets de Balenyà feia anys que anyoraven un bany a l'estany de la muntanya ja que hi tenien una cabanya feta de llenya, amb vinyes i senyalitzada per un senyal amb una pinya amb pinyons i el text 'Seny i rauxa', dissenyat a gran tamany i que van comprar enganyats, tot i que era un bunyol i va costar un ronyó."</p></div>_
 
-
+<br><br>
 
 Els catalanoparlants i "catalanoescribents" ens hem acostumat a utilitzar "de facto" el teclat en castellà que inclou una lletra que MAI farem servir: la **ñ**.
 En canvi, en català, la enya (ny) sempre ha estat a l'ombra de la ce trencada i de la ela geminada com a lletres insignes del català, tot i que, en general, es facin servir molt menys que la enya. Desde aqui es vol reinvindicar la enya catalana fins i tot en els nostres teclats.
@@ -98,7 +99,7 @@ El procés és un xic més complicat però si es segueixen els passos és facil 
 > [!Note]
 > S'ha intentat generar un teclat customitzat a l'estil de MacOS i instalar-lo a /usr/share/X11/xkb/catalan però en Linux no permetia configurar dos caracters a una sola tecla.
 
-La sol·lució que funciona es utilitzar la aplicació **input-remapper** que permet configurar les tecles i admet més de un caràcter per tecla.
+La sol·lució que funciona es utilitzar la aplicació **input-remapper** que permet configurar les tecles i admet més d'un caràcter per tecla.
 
 - Instal·lar **input-remapper** mitjançant _Ubuntu Software_ o obrir un terminal i descarregar manualment
 
@@ -119,7 +120,7 @@ El teclat dels iPhones i iPads és configurable en català, tot i que no es pot 
 ### Entorn Android
 
 > [!Note]
-> Al igual que en Windows, no es té access a un dispositiu Android per provar. s'enten que tindrà un funcionament similar a iOS en quan als teclats.
+> Al igual que en Windows, no es té access a un dispositiu Android per provar. S'enten que tindrà un funcionament similar a iOS en quan als teclats.
 
 
 <a name="Maquinari"></a>
@@ -129,7 +130,7 @@ El teclat dels iPhones i iPads és configurable en català, tot i que no es pot 
 
 Els teclats mecànics amb _key caps_ intercanviables permeten canviar facilment les tecles del teclat.
 
-Es proposen diferents llocs web que per pocs diners produeixen tecles amb el grafisme que es vulgui. Els llocs no son afiliats i no s'obte cap guany per promocionar-los. S'esmenten ja que s'han provat personalment i els següents llocs generen tecles amb un bon resultat:
+Es proposen diferents llocs web que per pocs diners produeixen tecles soltes amb el grafisme que es vulgui. Els llocs no son afiliats i no s'obte cap guany per esmentar-los. S'han inclòs ja que s'han provat personalment i els següents llocs generen tecles amb un bon resultat:
 
 - https://www.etsy.com/listing/1327161476/create-your-own-custom-text-keycaps-any
 
@@ -145,6 +146,10 @@ Es pot imprimir les plantilles de /templates en un full autoadhesiu, retallar i 
 
 - Input Remapper https://github.com/sezanzeb/input-remapper
 
+<a name="Comunitat"></a>
+## Comunitat
+
+Aquest repositori queda obert també a afegir altres dispositius/sistemes que la comunitat consideri que val la pena de mantenir el català, també en els teclats d'aquests dispositius.
 
 <a name="Agraïments"></a>
 ## Agraïments
