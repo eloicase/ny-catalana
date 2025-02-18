@@ -28,7 +28,9 @@ El projecte **Enya Catalana** vol ser un repositori per centralitzar tots els re
 <a name="Introduction"></a>
 ## Introducció
 
-_<p style="text-align: center;"></p>"     El senyor i la senyora Campmany dels Hostalets de Balenyà feia anys que anyoraven un bany a l'estany de la muntanya ja que tenien una cabanya feta de llenya amb vinyes i senyalitzada per un senyal amb una pinya amb pinyons i el text 'Seny i rauxa', dissenyat a gran tamany i que van comprar enganyats, tot i que era un bunyol i va costar un ronyó."</p>_
+_<div style="margin-left: auto;
+            margin-right: auto;
+            width: 30%"><p style="text-align: center;"></p>"     El senyor i la senyora Campmany dels Hostalets de Balenyà feia anys que anyoraven un bany a l'estany de la muntanya ja que tenien una cabanya feta de llenya amb vinyes i senyalitzada per un senyal amb una pinya amb pinyons i el text 'Seny i rauxa', dissenyat a gran tamany i que van comprar enganyats, tot i que era un bunyol i va costar un ronyó."</p></div>_
 
 
 Els catalanoparlants i "catalanoescribents" ens hem acostumat a utilitzar "de facto" el teclat en castellà que inclou una lletra que MAI farem servir: la **ñ**.
@@ -106,4 +108,23 @@ El teclat dels iPhones i iPads és configurable en català, tot i que no es pot 
 
 > [!Note]
 > Al igual que en Windows, no es té access a un dispositiu Android per provar. s'enten que tindrà un funcionament similar a iOS en quan als teclats.
+
+
+<a name="Maquinari"></a>
+## Maquinari
+
+### Teclats mecànics
+
+Els teclats mecànics amb _key caps_ intercanviables permeten canviar facilment les tecles del teclat.
+
+Es proposen diferents llocs web que per pocs diners produeixen tecles amb el grafisme que es vulgui. Els llocs no son afiliats i no s'obte cap guany per promocionar-los. S'esmenten ja que s'han provat personalment i els següents llocs que generen tecles amb un bon resultat:
+
+- https://www.etsy.com/listing/1327161476/create-your-own-custom-text-keycaps-any
+
+- https://www.etsy.com/listing/1376134454/create-your-own-custom-pbt-non-backlit
+
+
+### Teclats de perfil baix i portàtils
+
+Es pot imprimir les plantilles de /templates en un full autoadhesiu, retallar i plastificar per posteriorment enganxar a sobre la tecla **Ñ**.
 
