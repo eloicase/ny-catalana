@@ -145,6 +145,10 @@ Es pot imprimir les plantilles de /templates en un full autoadhesiu, retallar i 
 ## Enllaços
 
 - Input Remapper https://github.com/sezanzeb/input-remapper
+<p align="center">
+<a href="https://github.com/sezanzeb/input-remapper" target="_blank">
+        <img alt="Demo" src="https://img.shields.io/badge/Repo | sezanzeb?labelColor=&label=input-remapper&color=green"></a>
+</p>
 
 <a name="Comunitat"></a>
 ## Comunitat
