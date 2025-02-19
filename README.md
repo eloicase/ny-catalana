@@ -10,6 +10,7 @@
 | [**Instal·lació**](#Instal·lació)
 | [**Programari**](https://github.com/eloicase/enya-catalana#Programari)
 | [**Maquinari**](https://github.com/eloicase/enya-catalana#Maquinari)
+| [**Roadmap**](https://github.com/eloicase/enya-catalana#Roadmap)
 | [**Enllaços**](https://github.com/eloicase/enya-catalana#Enllaços)
 | [**Comunitat**](https://github.com/eloicase/enya-catalana#Comunitat)
 | [**Agraïments**](https://github.com/eloicase/enya-catalana#Agraïments)
@@ -141,6 +142,16 @@ Es proposen diferents llocs web que per pocs diners produeixen tecles soltes amb
 
 Es pot imprimir les plantilles de /templates en un full autoadhesiu, retallar i plastificar per posteriorment enganxar a sobre la tecla **Ñ**.
 
+<a name="Roadmap"></a>
+## Roadmap
+|  | Programari (teclat customitzat) | Programari (app 3rs) | Maquinari | 
+|--|--------------|-----------| --------- |
+|MacOS|✅|❌|✅|
+|Linux Ubuntu/Debian|❌|✅|✅|
+|Windows|❌|❌|✅|
+|iOS|✅|❌|❌|
+|Android|❌|❌|❌|
+
 <a name="Enllaços"></a>
 ## Enllaços
 
@@ -150,8 +161,8 @@ Es pot imprimir les plantilles de /templates en un full autoadhesiu, retallar i 
 <p align="center">
 <a href="https://github.com/sezanzeb/input-remapper" target="_blank">
         <img alt="Demo" src="https://img.shields.io/badge/Repo | Space-ClearVoice?labelColor=&label=input-remapper&color=green"></a>
-
 </p>
+- ephemeral-t-shirts https://ephemeral-t-shirts.blogspot.com/
 
 <a name="Comunitat"></a>
 ## Comunitat
