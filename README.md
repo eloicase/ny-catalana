@@ -19,7 +19,7 @@
 ---
 <a name="Highligts"></a>
 ## Abstract
-El projecte **Enya Catalana** vol ser un repositori per centralitzar tots els recursos per customitzar els teclats QWERTY llatí en castellà sustituïnt la lletra Ñ pel dígraf NY.
+El projecte **Enya Catalana** vol ser un repositori per centralitzar tots els recursos per customitzar els teclats QWERTY llatí en castellà sustituïnt la lletra **Ñ** pel dígraf **NY**.
 
 
 
@@ -48,7 +48,7 @@ Es per això que aquest repositori vol ser una solució que aglutini els recurso
 
 - Utilitzar el teclat plenament en català.
 - Desfer-se de la lletra **ñ** del teclat i utilitzar el grafisme propi del català: **ny**.
-- Que la resta de tecles del teclat funcionin com estem acostumats.
+- Que la resta de tecles del teclat funcionin com estem habituats.
 
 
 Per arreglar la situació s'ha d'afrontar el problema desde el punt de vista de programari i del maquinari.
@@ -61,7 +61,7 @@ Es proposa utilitzar una configuració de teclat customitzat que al prémer la t
 
 ### Maquinari
 Substituïr la tecla en questió per una que mostri el que realment escriu un cop feta la modificació del programari (aplicable basicament a teclats mecànics).
-En cas que no sigui factible substituir facilment la tecla es proposa, com a pla B, generar adhesius en forma de tecla que es pugui enganxar a sobre de la tecla **Ñ**.
+En cas que no sigui factible substituïr facilment la tecla es proposa, com a pla B, generar adhesius en forma de tecla que es pugui enganxar a sobre de la tecla **Ñ**.
 
 
 <a name="Programari"></a>
