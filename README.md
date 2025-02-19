@@ -110,7 +110,7 @@ La sol·lució que funciona es utilitzar la aplicació **input-remapper** que pe
 ``` sh
 sudo apt install input-remapper
 ```
-- Obrir la aplicació i configurar la tecla **N** perquè generi **NY**.
+- Obrir la aplicació i configurar la tecla **N** perquè generi **NY**. Instruccions de configuració al repository de **input-remapper**.
 
 ### Entorn Windows
 
