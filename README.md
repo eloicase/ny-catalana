@@ -162,6 +162,7 @@ Es pot imprimir les plantilles de /templates en un full autoadhesiu, retallar i 
 <a href="https://github.com/sezanzeb/input-remapper" target="_blank">
         <img alt="Demo" src="https://img.shields.io/badge/Repo | Space-ClearVoice?labelColor=&label=input-remapper&color=green"></a>
 </p>
+
 - Ephemeral-t-shirts https://ephemeral-t-shirts.blogspot.com/
 
 <a name="Comunitat"></a>
