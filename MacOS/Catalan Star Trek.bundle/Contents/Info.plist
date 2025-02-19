@@ -5,7 +5,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.catalan</string>
 	<key>CFBundleName</key>
-	<string>Catalan</string>
+	<string>Catalan Star Trek</string>
 	<key>CFBundleVersion</key>
 	<string></string>
 	<key>KLInfo_Catalan</key>
@@ -17,7 +17,7 @@
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.catalan.catalan</string>
 		<key>TISIntendedLanguage</key>
-		<string>es</string>
+		<string>ca</string>
 	</dict>
 </dict>
 </plist>
