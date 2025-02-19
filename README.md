@@ -78,7 +78,7 @@ git clone https://github.com/eloicase/enya-catalana.git
 
 - Fer doble click en el teclat customitzat triat per instal·lar
 ``` sh
-~/Users/username/enya-catalana/MacOS/Catalan-senyera
+~/Users/username/enya-catalana/MacOS/Catalan Senyera
 
 ```
 
@@ -93,6 +93,9 @@ Preferències del Sistema -> Teclat -> Dispositius d'entrada
 ```
 
 Un cop activat ja es podrà fer servir desde el menú teclats de la barra superior.
+
+> [!Note]
+> Es recomana no instal·lar més d'un teclat simultaniament, ja que més d'un teclat customitzat català fa que no es mostri la icona correcta. En cas de problemes desinstal·lar els teclats sobrants i reiniciar.
 
 ### Entorn Linux Ubuntu/Debian
 El procés és un xic més complicat però si es segueixen els passos és facil de seguir.
