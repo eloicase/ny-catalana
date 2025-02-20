@@ -32,7 +32,7 @@ El projecte **Enya Catalana** vol ser un repositori per centralitzar tots els re
 
 _<div style="margin-left: auto;
             margin-right: auto;
-            width: 30%"><p style="text-align: center;"></p>		"El senyor i la senyora Campmany dels Hostalets de Balenyà feia anys que enyoraven un bany a l'estany de la muntanya ja que hi tenien una cabanya feta de llenya, amb vinyes i senyalitzada per un senyal amb una pinya amb pinyons i el text 'Seny i rauxa', dissenyat a gran tamany i que van comprar enganyats, tot i que era un bunyol i va costar un ronyó."</p></div>_
+            width: 30%"><p style="text-align: center;"></p>		"El senyor i la senyora Campmany dels Hostalets de Balenyà feia anys i panys que enyoraven un bany a l'estany de la muntanya ja que hi tenien una cabanya feta de llenya, amb vinyes i senyalitzada per un senyal amb una pinya amb pinyons i el text 'Seny i rauxa', dissenyat a gran tamany i que van comprar enganyats, tot i que era un bunyol i va costar un ronyó."</p></div>_
 
 <br>
 
