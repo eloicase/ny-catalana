@@ -40,9 +40,9 @@ Els catalanoparlants i "catalanoescribents" ens hem acostumat a utilitzar "de fa
 En canvi, en català, la enya (ny) sempre ha estat a l'ombra de la ce trencada i de la ela geminada com a lletres insignes del català, tot i que, en general, es facin servir molt menys que la enya. Des de aquí es vol reivindicar la enya catalana fins i tot en els nostres teclats.
 
 En els dispositius actuals hi ha diferents alternatives per utilitzar diferents configuracions de teclat, ja que els sistemes més utilitzats (Mac, Linux, Windows) permeten canviar fàcilment de teclat a altres idiomes. Però malauradament no tenim una configuració de teclat ISO ni ANSI plenament en català. 
-Una solució seria fer servir, per exemple, la configuració de teclat en anglès, però apart de que ens hem d'apendre de nou la ubicació de molts símbols i signes de puntuació, es perd la **ç** i el punt volat. La configuració de teclat portuguès té la **ç** enlloc de la **ñ** però continuem perdent el punt volat de la el·la geminada.
+Una solució seria fer servir, per exemple, la configuració de teclat en anglès, però apart de que ens hem d'aprendre de nou la ubicació de molts símbols i signes de puntuació, es perd la **ç** i el punt volat. La configuració de teclat portuguès té la **ç** enlloc de la **ñ** però continuem perdent el punt volat de la el·la geminada.
 
-Aixó, més que solucions, son pedaços a mitges i malauradament estem acostumats a saber on estan les tecles dels signes de puntuació, accents i altres símbols de sobre els números en el teclat en castellà.
+Això, més que solucions, son pedaços a mitges i malauradament estem acostumats a saber on estan les tecles dels signes de puntuació, accents i altres símbols de sobre els números en el teclat en castellà.
 
 Es per això que aquest repositori vol ser una solució que aglutini els recursos per posar remei als següents punts:
 
@@ -98,7 +98,7 @@ Un cop activat ja es podrà fer servir des de el menú teclats de la barra super
 > Es recomana no instal·lar més d'un teclat simultàniament, ja que més d'un teclat customitzat català fa que no es mostri la icona correcta. En cas de problemes desinstal·lar els teclats sobrants i reiniciar.
 
 ### Entorn Linux Ubuntu/Debian
-El procés és un xic més complicat però si es segueixen els passos és facil de seguir.
+El procés és un xic més complicat però si es segueixen els passos és fàcil de seguir.
 
 > [!Note]
 > S'ha intentat generar un teclat customitzat a l'estil de MacOS i instal·lar-lo a /usr/share/X11/xkb/catalan però en Linux no permetia configurar dos caràcters a una sola tecla.
