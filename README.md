@@ -128,9 +128,11 @@ El teclat dels iPhones i iPads és configurable en català, tot i que no es pot 
 
 ### Mutliplataforma
 
-Una altra opció per configurar teclats mecànics independentment del sistema es utilitzar una soluciò online que configuri els teclats. Però aqui ens trovem amb altres limitacions, com per exemple els navegadors suportats, els teclats que es poden configurar i altres consideracions respecte a seguretat, etc.
+Una altra opció per configurar teclats mecànics independentment del sistema es utilitzar una solució online que configuri els teclats. Però aqui ens trovem amb altres limitacions, com per exemple els navegadors suportats, els teclats que es poden configurar i altres consideracions respecte a seguretat, etc.
 
-Una opció es utilitzar _Via_ (https://www.caniusevia.com) un programari lliure que fa exactament aquesta funció i que es pot utilitzar en diferents sistemes i navegadors però també té les seves limitacions. Consultar navegadors a:
+Una opció es utilitzar _Via_ (https://www.caniusevia.com) un programari lliure que fa exactament aquesta funció i que es pot utilitzar en diferents sistemes i navegadors però també té les seves limitacions. 
+
+Consultar navegadors suportats a:
 
 https://caniuse.com/?search=webhid
 
@@ -140,7 +142,7 @@ https://www.caniusevia.com/docs/supported_keyboards
 
 i també tenen una versió d'escriptori.
 
-### Dependencia del fabricant
+### Dependència del fabricant
 
 Alguns fabricants tenen la seva propia aplicació per configurar les tecles com per exemple Keychron (https://www.keychron.com) que mitjançant la aplicació _web Launcher_ (https://launcher.keychron.com/#/keymap) permet configurar les tecles. Però sembla ser que la aplicació es una versió de _Via_ customitzada.
 
