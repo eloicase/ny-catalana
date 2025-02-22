@@ -188,7 +188,7 @@ Es pot imprimir les plantilles de /templates en un full autoadhesiu, retallar i 
 
 - Via online https://www.caniusevia.com
 
-- Keychron Launchyer https://launcher.keychron.com/#/keymap
+- Keychron Launcher https://launcher.keychron.com/#/keymap
 
 - Ephemeral-t-shirts https://ephemeral-t-shirts.blogspot.com/
 
