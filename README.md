@@ -126,6 +126,24 @@ El teclat dels iPhones i iPads és configurable en català, tot i que no es pot 
 > [!Note]
 > Al igual que en Windows, no es té accés a un dispositiu Android per provar. S'entén que tindrà un funcionament similar a iOS en quan als teclats.
 
+### Mutliplataforma
+
+Una altra opció per configurar teclats mecànics independentment del sistema es utilitzar una soluciò online que configuri els teclats. Però aqui ens trovem amb altres limitacions, com per exemple els navegadors suportats, els teclats que es poden configurar i altres consideracions respecte a seguretat, etc.
+
+Una opció es utilitzar _Via_ (https://www.caniusevia.com) un programari lliure que fa exactament aquesta funció i que es pot utilitzar en diferents sistemes i navegadors però també té les seves limitacions. Consultar navegadors a:
+
+https://caniuse.com/?search=webhid
+
+i els teclats suportats a:
+
+https://www.caniusevia.com/docs/supported_keyboards
+
+i també tenen una versió d'escriptori.
+
+### Dependencia del fabricant
+
+Alguns fabricants tenen la seva propia aplicació per configurar les tecles com per exemple Keychron (https://www.keychron.com) que mitjançant la aplicació _web Launcher_ (https://launcher.keychron.com/#/keymap) permet configurar les tecles. Però sembla ser que la aplicació es una versió de _Via_ customitzada.
+
 
 <a name="Maquinari"></a>
 ## Maquinari
@@ -165,6 +183,10 @@ Es pot imprimir les plantilles de /templates en un full autoadhesiu, retallar i 
 <a href="https://github.com/sezanzeb/input-remapper" target="_blank">
         <img alt="Demo" src="https://img.shields.io/badge/Repo | Space-ClearVoice?labelColor=&label=input-remapper&color=green"></a>
 </p>
+
+- Via online https://www.caniusevia.com
+
+- Keychron Launchyer https://launcher.keychron.com/#/keymap
 
 - Ephemeral-t-shirts https://ephemeral-t-shirts.blogspot.com/
 
