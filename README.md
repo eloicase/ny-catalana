@@ -144,7 +144,7 @@ i també tenen una versió d'escriptori.
 
 ### Dependència del fabricant
 
-Alguns fabricants tenen la seva propia aplicació per configurar les tecles com per exemple Keychron (https://www.keychron.com) que mitjançant la aplicació _web Launcher_ (https://launcher.keychron.com/#/keymap) permet configurar les tecles. Però sembla ser que la aplicació es una versió de _Via_ customitzada.
+Alguns fabricants tenen la seva propia aplicació per configurar les tecles del teclat com per exemple Keychron (https://www.keychron.com) que mitjançant la aplicació _web Launcher_ (https://launcher.keychron.com/#/keymap) permet configurar les tecles. Però sembla ser que la aplicació es una versió de _Via_ customitzada.
 
 
 <a name="Maquinari"></a>
