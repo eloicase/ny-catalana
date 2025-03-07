@@ -115,11 +115,11 @@ sudo apt install input-remapper
 ### Entorn Windows
 
 > [!Note]
-> Actualment no es té accés a una màquina Windows i s'entén que hi ha d'haver una solució similar per poder activar configuracions de teclat personalitzades. Aquest repositori queda obert a la comunitat per afegir-hi la versió Windows del teclat customitzat que generi _NY_ enlloc de _Ñ_.
+> Actualment no es té accés a una màquina Windows i s'entén que hi ha d'haver una solució similar per poder activar configuracions de teclat personalitzades. Aquest repositori queda obert a la comunitat per afegir-hi la versió Windows del teclat customitzat que generi **_NY_** enlloc de **_Ñ_**.
 
 ### Entorn iOS
 
-El teclat dels iPhones i iPads és configurable en català, tot i que no es poden configurar fàcilment els teclats perquè es generi el dígraf _ny_. 
+El teclat dels iPhones i iPads és configurable en català, tot i que no es poden configurar fàcilment els teclats perquè es generi el dígraf **_NY_**. 
 
 ### Entorn Android
 
@@ -152,9 +152,9 @@ Alguns fabricants tenen la seva pròpia aplicació per configurar les tecles del
 
 ### Teclats mecànics
 
-Els teclats mecànics amb _key caps_ intercanviables permeten canviar fàcilment les tecles del teclat.
+Els teclats mecànics amb _key caps_ intercanviables permeten substituir fàcilment les tecles del teclat.
 
-Es proposen diferents llocs web que per pocs diners produeixen tecles soltes amb el grafisme que es vulgui. Els llocs no son afiliats i no s'obté cap guany per esmentar-los. S'han inclòs ja que s'han provat personalment i els següents llocs generen tecles amb un bon resultat:
+Es proposen diferents llocs web que per pocs diners produeixen tecles soltes amb la grafia que es vulgui. Els llocs no són afiliats i no s'obté cap guany per esmentar-los. S'han inclòs perquè s'han provat personalment i perquè els següents llocs generen tecles amb un bon resultat:
 
 - https://www.etsy.com/listing/1327161476/create-your-own-custom-text-keycaps-any
 
@@ -163,7 +163,7 @@ Es proposen diferents llocs web que per pocs diners produeixen tecles soltes amb
 
 ### Teclats de perfil baix i portàtils
 
-Es pot imprimir les plantilles de /templates en un full autoadhesiu, retallar i plastificar per posteriorment enganxar a sobre la tecla **Ñ**.
+Es poden imprimir les plantilles de _/templates_ en un full autoadhesiu, retallar-les i plastificar-les per posteriorment enganxar-hi a sobre de la tecla **_Ñ_**.
 
 <a name="Roadmap"></a>
 ## Roadmap
@@ -195,7 +195,10 @@ Es pot imprimir les plantilles de /templates en un full autoadhesiu, retallar i 
 <a name="Comunitat"></a>
 ## Comunitat
 
-Aquest repositori queda obert també a afegir altres dispositius/sistemes que la comunitat consideri que val la pena de mantenir el català, també en els teclats d'aquests dispositius.
+Aquest repositori queda obert també a afegir-hi altres dispositius/sistemes en que la comunitat consideri que val la pena de mantenir el català, també en els teclats d'aquests dispositius.
 
 <a name="Agraïments"></a>
 ## Agraïments
+
+- Montserrat Puig, del Consorci per a la Normalització Lingüistica (Centre Nou Barris)
+    https://www.cpnl.cat/
