@@ -39,19 +39,19 @@ _<div style="margin-left: auto;
 Els catalanoparlants i "catalanoescrivents" ens hem acostumat a utilitzar _de facto_ el teclat en castellà que inclou una lletra que MAI no farem servir: la **_ñ_**.
 En canvi, en català, el dígraf _ny_ sempre ha estat a l'ombra de la ce trencada i de la ela geminada com a lletres insignes del català, tot i que, en general, es fan servir molt menys que la grafia _ny_. Des d'aquí es vol reivindicar la _ny_ catalana fins i tot en els nostres teclats.
 
-En els dispositius actuals hi ha diferents alternatives per utilitzar diferents configuracions de teclat, ja que els sistemes més utilitzats (Mac, Linux, Windows) permeten canviar fàcilment de teclat a altres idiomes. Però malauradament no tenim una configuració de teclat ISO ni ANSI plenament en català. 
-Una solució seria fer servir, per exemple, la configuració de teclat en anglès, però apart de que ens hem d'aprendre de nou la ubicació de molts símbols i signes de puntuació, es perd la **ç** i el punt volat. La configuració de teclat portuguès té la **ç** enlloc de la **ñ** però continuem perdent el punt volat de la el·la geminada.
+En els dispositius actuals hi ha diferents alternatives per usar diferents configuracions de teclat, ja que els sistemes més utilitzats (Mac, Linux, Windows) permeten canviar fàcilment de teclat a altres idiomes. Però malauradament no tenim una configuració de teclat ISO ni ANSI plenament en català. 
+Una solució seria fer servir, per exemple, la configuració de teclat en anglès; tanmateix, a part que ens hem d'aprendre de nou la ubicació de molts símbols i signes de puntuació, es perd la **ç** i el punt volat. La configuració de teclat portuguès té la **_ç_** enlloc de la **_ñ_** però continuem perdent el punt volat de la ela geminada.
 
-Això, més que solucions, son pedaços a mitges i malauradament estem acostumats a saber on estan les tecles dels signes de puntuació, accents i altres símbols de sobre els números en el teclat en castellà.
+Això, més que no pas solucions, són pedaços a mitges i malauradament estem acostumats a saber on són les tecles dels signes de puntuació, dels accents i d'altres símbols que apareixen sobre els números en el teclat en castellà.
 
-Es per això que aquest repositori vol ser una solució que aglutini els recursos per posar remei als següents punts:
+És per això que aquest repositori vol ser una solució que aglutini els recursos per assolir els punts següents:
 
 - Utilitzar el teclat plenament en català.
-- Desfer-se de la lletra **ñ** del teclat i utilitzar el grafisme propi del català: **ny**.
-- Que la resta de tecles del teclat funcionin com estem habituats.
+- Desfer-se de la lletra **_ñ_** del teclat i utilitzar el dígraf propi del català: **_ny_**.
+- Aconseguir que la resta de tecles del teclat funcionin com hi estem habituats.
 
 
-Per arreglar la situació s'ha d'afrontar el problema des de el punt de vista de programari i del maquinari.
+Per arreglar la situació s'ha d'afrontar el problema des del punt de vista del programari i del maquinari.
 
 <a name="Instal·lació"></a>
 ## Instal·lació
