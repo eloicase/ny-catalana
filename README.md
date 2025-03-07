@@ -200,5 +200,5 @@ Aquest repositori queda obert també a afegir-hi altres dispositius/sistemes en 
 <a name="Agraïments"></a>
 ## Agraïments
 
-- Montserrat Puig, del Consorci per a la Normalització Lingüistica (Centre Nou Barris)
+- Montserrat Puig, professora de català del Consorci per a la Normalització Lingüística (Centre Nou Barris).
     https://www.cpnl.cat/
