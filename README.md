@@ -32,11 +32,11 @@ El projecte **_NY_ Catalana** vol ser un repositori per centralitzar tots els re
 
 _<div style="margin-left: auto;
             margin-right: auto;
-            width: 30%"><p style="text-align: center;"></p>		"«El senyor i la senyora Campmany dels Hostalets de Balenyà feia anys i panys que enyoraven un bany a l'estany de la muntanya ja que hi tenien una cabanya feta de llenya, envoltada de  vinyes i senyalitzada amb el senyal d'una pinya amb pinyons i el text "Seny i rauxa", casinyot que van comprar enganyats, tot i que era un bunyol i va costar un ronyó.»</p></div>_
+            width: 30%"><p style="text-align: center;"></p>		«El senyor i la senyora Campmany dels Hostalets de Balenyà feia anys i panys que enyoraven un bany a l'estany de la muntanya ja que hi tenien una cabanya feta de llenya, envoltada de  vinyes i senyalitzada amb el senyal d'una pinya amb pinyons i el text "Seny i rauxa", casinyot que van comprar enganyats, tot i que era un bunyol i va costar un ronyó.»</p></div>_
 
 <br>
 
-Els catalanoparlants i "catalanoescrivents" ens hem acostumat a utilitzar _de facto_ el teclat en castellà que inclou una lletra que MAI no farem servir: la **_ñ_**.
+Els catalanoparlants i "catalanoescrivents" ens hem acostumat a utilitzar _de facto_ el teclat en castellà que inclou una lletra que MAI no farem servir: la _ñ_.
 En canvi, en català, el dígraf _ny_ sempre ha estat a l'ombra de la ce trencada i de la ela geminada com a lletres insignes del català, tot i que, en general, es fan servir molt menys que la grafia _ny_. Des d'aquí es vol reivindicar la _ny_ catalana fins i tot en els nostres teclats.
 
 En els dispositius actuals hi ha diferents alternatives per usar diferents configuracions de teclat, ja que els sistemes més utilitzats (Mac, Linux, Windows) permeten canviar fàcilment de teclat a altres idiomes. Però malauradament no tenim una configuració de teclat ISO ni ANSI plenament en català. 
@@ -144,7 +144,7 @@ Val a dir que també tenen una versió d'escriptori.
 
 ### Dependència del fabricant
 
-Alguns fabricants tenen la seva pròpia aplicació per configurar les tecles del teclat com, per exemple, Keychron (https://www.keychron.com), que, mitjançant l'aplicació **_web Launcher_** (https://launcher.keychron.com/#/keymap, permet configurar les tecles. Sembla, però, que l'aplicació és una versió de **_Via_** personalitzada pel fabricant.
+Alguns fabricants tenen la seva pròpia aplicació per configurar les tecles del teclat com, per exemple, Keychron (https://www.keychron.com), que, mitjançant l'aplicació **_web Launcher_** (https://launcher.keychron.com/#/keymap), permet configurar les tecles. Sembla, però, que l'aplicació és una versió de **_Via_** personalitzada pel fabricant.
 
 
 <a name="Maquinari"></a>
@@ -163,7 +163,7 @@ Es proposen diferents llocs web que per pocs diners produeixen tecles soltes amb
 
 ### Teclats de perfil baix i portàtils
 
-Es poden imprimir les plantilles de _/templates_ en un full autoadhesiu, retallar-les i plastificar-les per posteriorment enganxar-hi a sobre de la tecla **_Ñ_**.
+Es poden imprimir les plantilles de _/templates_ en un full autoadhesiu, retallar-les i plastificar-les per posteriorment enganxar-les a sobre de la tecla **_Ñ_**.
 
 <a name="Roadmap"></a>
 ## Roadmap
