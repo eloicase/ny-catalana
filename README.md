@@ -19,25 +19,25 @@
 ---
 <a name="Highligts"></a>
 ## Abstract
-El projecte **Enya Catalana** vol ser un repositori per centralitzar tots els recursos per customitzar els teclats QWERTY llatí en castellà substituint la lletra **Ñ** pel dígraf **NY**.
+El projecte **Dígraf _ny_ Catalana** vol ser un repositori per centralitzar tots els recursos a fi de personalitzar el teclat QWERTY/llatí en castellà substituint la lletra **_Ñ_** pel dígraf **_NY_**.
 
 
 
 <a name="Historial"></a>
 ## What's New 🔥
-- 2025/02: Primera versió del repositori amb versions per MacOS i Ubuntu Linux/Debian.
+- 2025/02: Primera versió del repositori amb versions per a MacOS i Ubuntu Linux/Debian.
 
 <a name="Introduction"></a>
 ## Introducció
 
 _<div style="margin-left: auto;
             margin-right: auto;
-            width: 30%"><p style="text-align: center;"></p>		"El senyor i la senyora Campmany dels Hostalets de Balenyà feia anys i panys que enyoraven un bany a l'estany de la muntanya ja que hi tenien una cabanya feta de llenya, amb vinyes i senyalitzada per un senyal amb una pinya amb pinyons i el text 'Seny i rauxa', dissenyat a gran tamany i que van comprar enganyats, tot i que era un bunyol i va costar un ronyó."</p></div>_
+            width: 30%"><p style="text-align: center;"></p>		"«El senyor i la senyora Campmany dels Hostalets de Balenyà feia anys i panys que enyoraven un bany a l'estany de la muntanya ja que hi tenien una cabanya feta de llenya, envoltada de  vinyes i senyalitzada amb el senyal d'una pinya amb pinyons i el text "Seny i rauxa", casinyot que van comprar enganyats, tot i que era un bunyol i va costar un ronyó.»</p></div>_
 
 <br>
 
-Els catalanoparlants i "catalanoescribents" ens hem acostumat a utilitzar "de facto" el teclat en castellà que inclou una lletra que MAI farem servir: la **ñ**.
-En canvi, en català, la enya (ny) sempre ha estat a l'ombra de la ce trencada i de la ela geminada com a lletres insignes del català, tot i que, en general, es facin servir molt menys que la enya. Des de aquí es vol reivindicar la enya catalana fins i tot en els nostres teclats.
+Els catalanoparlants i "catalanoescrivents" ens hem acostumat a utilitzar _de facto_ el teclat en castellà que inclou una lletra que MAI no farem servir: la **_ñ_**.
+En canvi, en català, el dígraf _ny_ sempre ha estat a l'ombra de la ce trencada i de la ela geminada com a lletres insignes del català, tot i que, en general, es fan servir molt menys que la grafia _ny_. Des d'aquí es vol reivindicar la _ny_ catalana fins i tot en els nostres teclats.
 
 En els dispositius actuals hi ha diferents alternatives per utilitzar diferents configuracions de teclat, ja que els sistemes més utilitzats (Mac, Linux, Windows) permeten canviar fàcilment de teclat a altres idiomes. Però malauradament no tenim una configuració de teclat ISO ni ANSI plenament en català. 
 Una solució seria fer servir, per exemple, la configuració de teclat en anglès, però apart de que ens hem d'aprendre de nou la ubicació de molts símbols i signes de puntuació, es perd la **ç** i el punt volat. La configuració de teclat portuguès té la **ç** enlloc de la **ñ** però continuem perdent el punt volat de la el·la geminada.
