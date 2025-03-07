@@ -57,11 +57,11 @@ Per arreglar la situació s'ha d'afrontar el problema des del punt de vista del 
 ## Instal·lació
 
 ### Programari
-Es proposa utilitzar una configuració de teclat customitzat que al prémer la tecla **Ñ** el teclat generi directament **NY**.
+Es proposa fer servir una configuració de teclat personalitzat que, en prémer la tecla **_Ñ_**, el teclat generi directament **_NY_**.
 
 ### Maquinari
-Substituir la tecla en qüestió per una que mostri el que realment escriu un cop feta la modificació del programari (aplicable bàsicament a teclats mecànics).
-En cas que no sigui factible substituir fàcilment la tecla es proposa, com a pla B, generar adhesius en forma de tecla que es pugui enganxar a sobre de la tecla **Ñ**.
+Substituir la tecla en qüestió per una que mostri el que realment s'escriu un cop feta la modificació del programari (aplicable bàsicament a teclats mecànics).
+En cas que no sigui factible substituir fàcilment la tecla, es proposa, com a pla B, generar adhesius en forma de tecla que es puguin enganxar a sobre de la tecla **_Ñ_**.
 
 
 <a name="Programari"></a>
@@ -69,82 +69,82 @@ En cas que no sigui factible substituir fàcilment la tecla es proposa, com a pl
 
 ### Entorn MacOS
 
-- Descarregar el repositori
+- Descarregar el repositori:
 
 ``` sh
 git clone https://github.com/eloicase/enya-catalana.git
 
 ```
 
-- Fer doble clic en el teclat customitzat triat per instal·lar
+- Fer doble clic en el teclat customitzat triat per instal·lar:
 ``` sh
 ~/Users/username/enya-catalana/MacOS/Catalan Senyera
 
 ```
 
-- o copiar-lo manualment a
+- o copiar-lo manualment a:
 ``` sh
 ~/Users/username/Library/Keyboard Layouts
 ```
 
-- Activar el teclat des de
+- Activar el teclat des de:
 ``` sh
 Preferències del Sistema -> Teclat -> Dispositius d'entrada
 ```
 
-Un cop activat ja es podrà fer servir des de el menú teclats de la barra superior.
+Un cop activat el teclat, ja es podrà fer servir des del menú Teclats de la barra superior.
 
 > [!Note]
-> Es recomana no instal·lar més d'un teclat simultàniament, ja que més d'un teclat customitzat català fa que no es mostri la icona correcta. En cas de problemes desinstal·lar els teclats sobrants i reiniciar.
+> Es recomana no instal·lar més d'un teclat simultàniament, ja que més d'un teclat personalitzat en català fa que no es mostri la icona correcta. En cas de problemes, cal desinstal·lar els teclats sobrants i reiniciar l'ordinador.
 
 ### Entorn Linux Ubuntu/Debian
-El procés és un xic més complicat però si es segueixen els passos és fàcil de seguir.
+El procés és un xic més complicat, però si se segueixen els passos és fàcil de dur a terme.
 
 > [!Note]
-> S'ha intentat generar un teclat customitzat a l'estil de MacOS i instal·lar-lo a /usr/share/X11/xkb/catalan però en Linux no permetia configurar dos caràcters a una sola tecla.
+> S'ha intentat generar un teclat personalitzat a l'estil de MacOS i instal·lar-lo a _/usr/share/X11/xkb/catalan_, però en Linux no permetia configurar dos caràcters en una sola tecla.
 
-La solució que funciona es utilitzar la aplicació **input-remapper** que permet configurar les tecles i admet més d'un caràcter per tecla.
+La solució que funciona és utilitzar l'aplicació **input-remapper**, que permet configurar les tecles i admet més d'un caràcter per tecla.
 
-- Instal·lar **input-remapper** mitjançant _Ubuntu Software_ o obrir un terminal i descarregar manualment
+- Instal·lar **input-remapper** mitjançant _Ubuntu Software_ o obrir un terminal i descarregar l'aplicació manualment:
 
 ``` sh
 sudo apt install input-remapper
 ```
-- Obrir la aplicació i configurar la tecla **N** perquè generi **NY**. Instruccions de configuració al repositori de **input-remapper**.
+- Obrir l'aplicació i configurar la tecla **_N_** perquè generi **_NY_**. Instruccions de configuració al repositori d'**input-remapper** (https://github.com/sezanzeb/input-remapper).
 
 ### Entorn Windows
 
 > [!Note]
-> Actualment no es té accés a una maquina windows i s'entén que hi ha d'haver una solució similar per poder activar configuracions de teclat customitzades. Aquest repositori queda obert a la comunitat per afegir la versió Windows del teclat customitzat que generi NY enlloc de Ñ.
+> Actualment no es té accés a una màquina Windows i s'entén que hi ha d'haver una solució similar per poder activar configuracions de teclat personalitzades. Aquest repositori queda obert a la comunitat per afegir-hi la versió Windows del teclat customitzat que generi _NY_ enlloc de _Ñ_.
 
 ### Entorn iOS
 
-El teclat dels iPhones i iPads és configurable en català, tot i que no es pot configurar fàcilment els teclats perquè es generi el digraf 'ny'. 
+El teclat dels iPhones i iPads és configurable en català, tot i que no es poden configurar fàcilment els teclats perquè es generi el dígraf _ny_. 
 
 ### Entorn Android
 
 > [!Note]
-> Al igual que en Windows, no es té accés a un dispositiu Android per provar. S'entén que tindrà un funcionament similar a iOS en quan als teclats.
+> Igual que en Windows, no es té accés a un dispositiu Android per desenvolupar la versió corresponent. S'entén que tindrà un funcionament similar a iOS quant als teclats.
 
 ### Mutliplataforma
 
-Una altra opció per configurar teclats mecànics independentment del sistema es utilitzar una solució online que configuri els teclats. Però aqui ens trovem amb altres limitacions, com per exemple els navegadors suportats, els teclats que es poden configurar i altres consideracions respecte a seguretat, etc.
+Una altra opció per configurar teclats mecànics independentment del sistema és emprar una solució en línia que configuri els teclats. Però aquí ens trobem amb altres limitacions com, per exemple, els navegadors compatibles, els teclats que es poden configurar i altres consideracions respecte a seguretat, etc.
 
-Una opció es utilitzar _Via_ (https://www.caniusevia.com) un programari lliure que fa exactament aquesta funció i que es pot utilitzar en diferents sistemes i navegadors però també té les seves limitacions. 
+Una opció és utilitzar **_Via_** (https://www.caniusevia.com), un programari lliure que fa exactament aquesta funció i que es pot fer servir en diferents sistemes i navegadors però també té les seves limitacions. 
 
-Consultar navegadors suportats a:
+Consultar navegadors compatibles a:
 
 https://caniuse.com/?search=webhid
 
-i els teclats suportats a:
+i els teclats compatibles a:
 
 https://www.caniusevia.com/docs/supported_keyboards
 
-i també tenen una versió d'escriptori.
+Val a dir que també tenen una versió d'escriptori.
 
 ### Dependència del fabricant
 
-Alguns fabricants tenen la seva propia aplicació per configurar les tecles del teclat com per exemple Keychron (https://www.keychron.com) que mitjançant la aplicació _web Launcher_ (https://launcher.keychron.com/#/keymap) permet configurar les tecles. Però sembla ser que la aplicació es una versió de _Via_ customitzada.
+Alguns fabricants tenen la seva pròpia aplicació per configurar les tecles del teclat com, per exemple, Keychron (https://www.keychron.com), que, mitjançant l'aplicació **_web Launcher_** (https://launcher.keychron.com/#/keymap, permet configurar les tecles. Sembla, però, que l'aplicació és una versió de **_Via_** personalitzada pel fabricant.
 
 
 <a name="Maquinari"></a>
