@@ -72,13 +72,13 @@ En cas que no sigui factible substituir fàcilment la tecla, es proposa, com a p
 - Descarregar el repositori:
 
 ``` sh
-git clone https://github.com/eloicase/enya-catalana.git
+git clone https://github.com/eloicase/ny-catalana.git
 
 ```
 
 - Fer doble clic en el teclat customitzat triat per instal·lar:
 ``` sh
-~/Users/username/enya-catalana/MacOS/Catalan Senyera
+~/Users/username/ny-catalana/MacOS/Catalan Senyera
 
 ```
 
