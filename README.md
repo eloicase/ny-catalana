@@ -165,6 +165,16 @@ Es proposen diferents llocs web que per pocs diners produeixen tecles soltes amb
 
 Es poden imprimir les plantilles de _/templates_ en un full autoadhesiu, retallar-les i plastificar-les per posteriorment enganxar-les a sobre de la tecla **_Ñ_**.
 
+| Template | Sistema | Tipografia | 
+|--|--------------|-----------|
+|Apple-ny-catalana-KeyCaps-template-(84-15).pdf|Mac (Teclats del 1994 al 2003)|Univers Cond Ligh Oblique|
+|Apple-ny-catalana-KeyCaps-template-(15-25).pdf|Mac (Teclats del 2015 al 2025)|San Francisco|
+|Apple-ny-catalana-KeyCaps-template-(84-15).pdf|Mac (Teclats del 1994 al 2003)|Univers Cond Ligh Oblique|
+|Generic-ny-catalana-KeyCaps-template-regular.pdf|Teclats genèrics|Helvetica Regular|
+|Generic-ny-catalana-KeyCaps-template-light.pdf|Teclats genèrics|Helvetica Light|
+|Generic-ny-catalana-KeyCaps-template-italic.pdf|Teclats genèrics|Helvetica Italic|
+|Generic-ny-catalana-KeyCaps-template-lightItalic.pdf|Teclats genèrics|Helvetica Light Italic|
+
 <a name="Roadmap"></a>
 ## Roadmap
 |  | Programari (teclat customitzat) | Programari (app de 3rs) | Maquinari | 
