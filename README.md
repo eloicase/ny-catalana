@@ -82,7 +82,13 @@ git clone https://github.com/eloicase/ny-catalana.git
 | Fitxer             |  Icona |
 :-------------------------:|:-------------------------:
 Catalan Bandera Negra.zip | ![](/assets/1.png) |  
-
+Catalan Estelada.zip | ![](/assets/2.png) | 
+Catalan Senyera.zip | ![](/assets/3.png) | 
+Catalan Star Trek Federation.zip | ![](/assets/4.png) | 
+Catalan Star Trek.zip | ![](/assets/5.png) | 
+Catalan Star Wars Empire.zip | ![](/assets/6.png) | 
+Catalan Star Wars Mandalorian.zip | ![](/assets/7.png) | 
+Catalan Star Wars Rebel.zip | ![](/assets/8.png) | 
 
 
 - Fer doble clic en el teclat customitzat triat per instal·lar:
