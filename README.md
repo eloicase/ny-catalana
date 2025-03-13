@@ -165,11 +165,13 @@ Es proposen diferents llocs web que per pocs diners produeixen tecles soltes amb
 
 Es poden imprimir les plantilles de _/templates_ en un full autoadhesiu, retallar-les i plastificar-les per posteriorment enganxar-les a sobre de la tecla **_Ñ_**.
 
+S'han desenvolupat diferents _templates_ que s'adapten a teclats de diferents colors i posicions de la lletra.
+
 | Template | Sistema | Tipografia | 
 |--|--------------|-----------|
 |Apple-ny-catalana-KeyCaps-template-(84-03).pdf|Macintosh (Teclats del 1984 al 2003)|Univers Cond Light Oblique|
-|Apple-ny-catalana-KeyCaps-template-(03-15).pdf|Macintosh (Teclats del 2003 al 2015)|San Francisco|
-|Apple-ny-catalana-KeyCaps-template-(15-25).pdf|Macintosh (Teclats del 2015 al 2025)|Univers Cond Ligh Oblique|
+|Apple-ny-catalana-KeyCaps-template-(03-15).pdf|Macintosh (Teclats del 2003 al 2015)|VAG Rounded|
+|Apple-ny-catalana-KeyCaps-template-(15-25).pdf|Macintosh (Teclats del 2015 al 2025)|San Francisco|
 |Generic-ny-catalana-KeyCaps-template-regular.pdf|Teclats genèrics|Helvetica Regular|
 |Generic-ny-catalana-KeyCaps-template-light.pdf|Teclats genèrics|Helvetica Light|
 |Generic-ny-catalana-KeyCaps-template-italic.pdf|Teclats genèrics|Helvetica Italic|
