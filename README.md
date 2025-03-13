@@ -167,9 +167,9 @@ Es poden imprimir les plantilles de _/templates_ en un full autoadhesiu, retalla
 
 | Template | Sistema | Tipografia | 
 |--|--------------|-----------|
-|Apple-ny-catalana-KeyCaps-template-(84-15).pdf|Mac (Teclats del 1994 al 2003)|Univers Cond Ligh Oblique|
-|Apple-ny-catalana-KeyCaps-template-(15-25).pdf|Mac (Teclats del 2015 al 2025)|San Francisco|
-|Apple-ny-catalana-KeyCaps-template-(84-15).pdf|Mac (Teclats del 1994 al 2003)|Univers Cond Ligh Oblique|
+|Apple-ny-catalana-KeyCaps-template-(84-03).pdf|Macintosh (Teclats del 1984 al 2003)|Univers Cond Light Oblique|
+|Apple-ny-catalana-KeyCaps-template-(03-15).pdf|Macintosh (Teclats del 2003 al 2015)|San Francisco|
+|Apple-ny-catalana-KeyCaps-template-(15-25).pdf|Macintosh (Teclats del 2015 al 2025)|Univers Cond Ligh Oblique|
 |Generic-ny-catalana-KeyCaps-template-regular.pdf|Teclats genèrics|Helvetica Regular|
 |Generic-ny-catalana-KeyCaps-template-light.pdf|Teclats genèrics|Helvetica Light|
 |Generic-ny-catalana-KeyCaps-template-italic.pdf|Teclats genèrics|Helvetica Italic|
