@@ -1,6 +1,6 @@
 [//]: # (# enya-catalana)
 <p align="center">
- <a href="https://github.com/eloicase/enya-catalana" target="_blank">
+ <a href="https://github.com/eloicase/ny-catalana" target="_blank">
         <img alt="banner" src="./assets/banner.png" width="100%"></a>
 </p>
 
@@ -75,6 +75,23 @@ En cas que no sigui factible substituir fàcilment la tecla, es proposa, com a p
 git clone https://github.com/eloicase/ny-catalana.git
 
 ```
+
+- Descomprimir el teclat que es vulgui instal·lar. Tots els teclats substitueixen la **_Ñ_** per la **_NY_** però cadascún amb una icona personalitzada diferent:
+
+
+| Fitxer | Icona | 
+|--|--------------|-----------| --------- |
+|Catalan Bandera Negra.zip|<p align="center">
+ <a href="https://github.com/eloicase/ny-catalana" target="_blank">
+        <img alt="banner" src="./assets/1.png" width="100%"></a>
+</p>|
+|Catalan Estelada.zip|❌|
+|Catalan Senyera.zip|❌|
+|Catalan Star Trek Federation.zip|✅|
+|Catalan Star Trek.zip|❌|
+Catalan Star Wars Empire.zip|❌|
+|Catalan Star Wars Mandalorian.zip|❌|
+|Catalan Star Wars Rebel.zip|❌|
 
 - Fer doble clic en el teclat customitzat triat per instal·lar:
 ``` sh
