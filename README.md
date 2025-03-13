@@ -79,6 +79,12 @@ git clone https://github.com/eloicase/ny-catalana.git
 - Descomprimir el teclat que es vulgui instal·lar. Tots els teclats substitueixen la **_Ñ_** per la **_NY_** però cadascún amb una icona personalitzada diferent:
 
 
+| Fitxer             |  Icona |
+:-------------------------:|:-------------------------:
+Catalan Bandera Negra.zip![](/assets/1.png)  |  
+
+
+
 | Fitxer | Icona | 
 |--|--------------|-----------| --------- |
 |Catalan Bandera Negra.zip|<p align="center">
