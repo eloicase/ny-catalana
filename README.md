@@ -17,11 +17,6 @@
 
 
 ---
-
-<video src='assets/ny-catalana.mp4' width="100%"/>
-
----
-
 <a name="Highligts"></a>
 ## Abstract
 El projecte **_NY_ Catalana** vol ser un repositori per centralitzar tots els recursos a fi de personalitzar el teclat QWERTY/llatí en castellà substituint la lletra **_Ñ_** pel dígraf **_NY_**.
