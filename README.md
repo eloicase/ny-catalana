@@ -17,6 +17,11 @@
 
 
 ---
+
+![](/assets/ny-catalana.mp4)
+
+---
+
 <a name="Highligts"></a>
 ## Abstract
 El projecte **_NY_ Catalana** vol ser un repositori per centralitzar tots els recursos a fi de personalitzar el teclat QWERTY/llatí en castellà substituint la lletra **_Ñ_** pel dígraf **_NY_**.
@@ -35,6 +40,8 @@ _<div style="margin-left: auto;
             width: 30%"><p style="text-align: center;"></p>		«El senyor i la senyora Campmany dels Hostalets de Balenyà feia anys i panys que enyoraven un bany a l'estany de la muntanya ja que hi tenien una cabanya feta de llenya, envoltada de  vinyes i senyalitzada amb el senyal d'una pinya amb pinyons i el text "Seny i rauxa", casinyot que van comprar enganyats, tot i que era un bunyol i va costar un ronyó.»</p></div>_
 
 <br>
+
+
 
 Els catalanoparlants i "catalanoescrivents" ens hem acostumat a utilitzar _de facto_ el teclat en castellà que inclou una lletra que MAI no farem servir: la _ñ_.
 En canvi, en català, el dígraf _ny_ sempre ha estat a l'ombra de la ce trencada i de la ela geminada com a lletres insignes del català, tot i que, en general, es fan servir molt menys que la grafia _ny_. Des d'aquí es vol reivindicar la _ny_ catalana fins i tot en els nostres teclats.
