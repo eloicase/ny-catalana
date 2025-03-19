@@ -53,7 +53,7 @@ Això, més que no pas solucions, són pedaços a mitges i malauradament estem a
 
 És per això que aquest repositori vol ser una solució que aglutini els recursos per assolir els punts següents:
 
-- Utilitzar el teclat plenament en català.
+- Utilitzar el teclat del nostre dispositiu plenament en català.
 - Desfer-se de la lletra **_ñ_** del teclat i utilitzar el dígraf propi del català: **_ny_**.
 - Aconseguir que la resta de tecles del teclat funcionin com hi estem habituats.
 
