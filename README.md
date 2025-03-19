@@ -15,8 +15,6 @@
 | [**Comunitat**](https://github.com/eloicase/enya-catalana#Comunitat)
 | [**Agraïments**](https://github.com/eloicase/enya-catalana#Agraïments)
 
-[<img src="/assets/Keycaps.jpg" width="300" height="300">](/assets/ny-catalana.mp4)
-
 ---
 <a name="Highligts"></a>
 ## Abstract
@@ -33,9 +31,14 @@ El projecte **_NY_ Catalana** vol ser un repositori per centralitzar tots els re
 
 _<div style="margin-left: auto;
             margin-right: auto;
-            width: 30%"><p style="text-align: center;"></p>		«El senyor i la senyora Campmany dels Hostalets de Balenyà feia anys i panys que enyoraven un bany a l'estany de la muntanya ja que hi tenien una cabanya feta de llenya, envoltada de  vinyes i senyalitzada amb el senyal d'una pinya amb pinyons i el text "Seny i rauxa", casinyot que van comprar enganyats, tot i que era un bunyol i va costar un ronyó.»</p></div>_
+            width: 30%"><p style="text-align: center;"></p>		«El senyor i la senyora Campmany dels Hostalets de Balenyà feia anys i panys que enyoraven un bany a l'estany de la muntanya ja que hi tenien una cabanya feta de llenya, envoltada de  vinyes i senyalitzada amb el senyal d'una pinya amb pinyons i el text "Seny i rauxa", casinyot que van comprar enganyats, tot i que era un bunyol i va costar un ronyó.»</p></div>
+            
 
-<br>
+| Teclats mecànics             |  Teclats perfil baix/portàtils |
+:-------------------------:|:-------------------------:
+![](/assets/Mechanical-1.jpg) | ![](/assets/Low-profile.jpg) |  
+![](/assets/Mechanical-2.jpg) | ![](/assets/Laptop.1.jpg) | 
+![](/assets/Mechanical-3.jpg) |  | 
 
 
 
