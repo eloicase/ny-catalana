@@ -15,17 +15,8 @@
 | [**Comunitat**](https://github.com/eloicase/enya-catalana#Comunitat)
 | [**Agraïments**](https://github.com/eloicase/enya-catalana#Agraïments)
 
-<<<<<<< HEAD
-=======
-
-
-https://github.com/user-attachments/assets/f0e2c81a-003e-4d44-8f78-e7872674b9b3
-
-
-
->>>>>>> 3ec125f72f40095da7db556756fed570ede34333
 ---
-<a name="Highligts"></a>
+
 ## Abstract
 El projecte **_NY_ Catalana** vol ser un repositori per centralitzar tots els recursos a fi de personalitzar el teclat QWERTY/llatí en castellà substituint la lletra **_Ñ_** pel dígraf **_NY_**.
 
@@ -46,7 +37,7 @@ _<div style="margin-left: auto;
 | Teclats mecànics             |  Teclats perfil baix/portàtils |
 :-------------------------:|:-------------------------:
 ![](/assets/Mechanical-1.jpg) | ![](/assets/Low-profile.jpg) |  
-![](/assets/Mechanical-2.jpg) | ![](/assets/Laptop.1.jpg) | 
+![](/assets/Mechanical-2.jpg) | ![](/assets/Laptop-1.jpg) | 
 ![](/assets/Mechanical-3.jpg) |  | 
 
 
@@ -242,5 +233,8 @@ Aquest repositori queda obert també a afegir-hi altres dispositius/sistemes en 
 <a name="Agraïments"></a>
 ## Agraïments
 
-- Montserrat Puig, professora de català del Consorci per a la Normalització Lingüística (Centre Nou Barris).
+- Montserrat Puig, professora de català del Consorci per a la Normalització Lingüística (Centre Nou Barris), per la correcció ortogràfica.
     https://www.cpnl.cat/
+- Marina Canals, per el material fotogràfic.
+    https://marinacanalssserra.blogspot.com
+    
