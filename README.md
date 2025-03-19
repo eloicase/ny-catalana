@@ -15,7 +15,7 @@
 | [**Comunitat**](https://github.com/eloicase/enya-catalana#Comunitat)
 | [**Agraïments**](https://github.com/eloicase/enya-catalana#Agraïments)
 
-[<img src="/assets/Keycaps.jpg" width="600" height="300">]/assets/ny-catalana.mp4>)
+[<img src="/assets/Keycaps.jpg" width="300" height="300">](/assets/ny-catalana.mp4>)
 
 ---
 <a name="Highligts"></a>
