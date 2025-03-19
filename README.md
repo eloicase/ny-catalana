@@ -44,7 +44,7 @@ El projecte **_NY_ Catalana** vol ser un repositori per centralitzar tots els re
 
 
 Els catalanoparlants i "catalanoescrivents" ens hem acostumat a utilitzar _de facto_ el teclat en castellà que inclou una lletra que MAI no farem servir: la _ñ_.
-En canvi, en català, el dígraf _ny_ sempre ha estat a l'ombra de la ce trencada i de la ela geminada com a lletres insignes del català, tot i que, en general, es fan servir molt menys que la grafia _ny_. Des d'aquí es vol reivindicar la _ny_ catalana fins i tot en els nostres teclats.
+En canvi, en català, el dígraf _ny_ sempre ha estat a l'ombra de la ce trencada i de la ela geminada com a lletres insignes del català, tot i que, en general, es fan servir molt menys que la grafia _ny_. Des d'aquí es vol reivindicar la _ny_ catalana <u>fins i tot en els nostres teclats.</u>
 
 En els dispositius actuals hi ha diferents alternatives per usar diferents configuracions de teclat, ja que els sistemes més utilitzats (Mac, Linux, Windows) permeten canviar fàcilment de teclat a altres idiomes. Però malauradament no tenim una configuració de teclat ISO ni ANSI plenament en català. 
 Una solució seria fer servir, per exemple, la configuració de teclat en anglès; tanmateix, a part que ens hem d'aprendre de nou la ubicació de molts símbols i signes de puntuació, es perd la **ç** i el punt volat. La configuració de teclat portuguès té la **_ç_** enlloc de la **_ñ_** però continuem perdent el punt volat de la ela geminada.
