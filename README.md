@@ -17,6 +17,7 @@
 
 ---
 
+<a name="Abstract"></a>
 ## Abstract
 El projecte **_NY_ Catalana** vol ser un repositori per centralitzar tots els recursos a fi de personalitzar el teclat QWERTY/llatí en castellà substituint la lletra **_Ñ_** pel dígraf **_NY_**.
 
@@ -26,7 +27,7 @@ El projecte **_NY_ Catalana** vol ser un repositori per centralitzar tots els re
 ## What's New 🔥
 - 2025/02: Primera versió del repositori amb versions per a MacOS i Ubuntu Linux/Debian.
 
-<a name="Introduction"></a>
+<a name="Introducció"></a>
 ## Introducció
 
 _<div style="margin-left: auto;
@@ -234,7 +235,9 @@ Aquest repositori queda obert també a afegir-hi altres dispositius/sistemes en 
 ## Agraïments
 
 - Montserrat Puig, professora de català del Consorci per a la Normalització Lingüística (Centre Nou Barris), per la correcció ortogràfica.
+
     https://www.cpnl.cat/
-- Marina Canals, per el material fotogràfic.
+- Marina Canals, pel material fotogràfic.
+
     https://marinacanalssserra.blogspot.com
     
