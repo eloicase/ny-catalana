@@ -176,6 +176,8 @@ Alguns fabricants tenen la seva pròpia aplicació per configurar les tecles del
 
 Els teclats mecànics amb _key caps_ intercanviables permeten substituir fàcilment les tecles del teclat.
 
+![](/assets/Keycaps.jpg)
+
 Es proposen diferents llocs web que per pocs diners produeixen tecles soltes amb la grafia que es vulgui. Els llocs no són afiliats i no s'obté cap guany per esmentar-los. S'han inclòs perquè s'han provat personalment i perquè els següents llocs generen tecles amb un bon resultat:
 
 - https://www.etsy.com/listing/1327161476/create-your-own-custom-text-keycaps-any
@@ -206,8 +208,8 @@ S'han desenvolupat diferents _templates_ que s'adapten a teclats de diferents co
 |MacOS|✅|❌|✅|
 |Linux Ubuntu/Debian|❌|✅|✅|
 |Windows|❌|❌|✅|
-|iOS|✅|❌|❌|
-|Android|❌|❌|❌|
+|iOS|✅|❌|-|
+|Android|❌|❌|-|
 
 <a name="Enllaços"></a>
 ## Enllaços
