@@ -15,6 +15,15 @@
 | [**Comunitat**](https://github.com/eloicase/enya-catalana#Comunitat)
 | [**Agraïments**](https://github.com/eloicase/enya-catalana#Agraïments)
 
+<<<<<<< HEAD
+=======
+
+
+https://github.com/user-attachments/assets/f0e2c81a-003e-4d44-8f78-e7872674b9b3
+
+
+
+>>>>>>> 3ec125f72f40095da7db556756fed570ede34333
 ---
 <a name="Highligts"></a>
 ## Abstract
