@@ -18,7 +18,8 @@
 
 ---
 
-![](/assets/ny-catalana.mp4)
+<video src='/assets/ny-catalana.mp4' width="100%"/>
+
 
 ---
 
