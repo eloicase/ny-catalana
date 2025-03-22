@@ -39,7 +39,7 @@ El projecte **_NY_ Catalana** vol ser un repositori per centralitzar tots els re
 :-------------------------:|:-------------------------:
 ![](/assets/Mechanical-1.jpg) | ![](/assets/Low-profile.jpg) |  
 ![](/assets/Mechanical-2.jpg) | ![](/assets/Laptop-1.jpg) | 
-![](/assets/Mechanical-3.jpg) |  | 
+![](/assets/Mechanical-3.jpg) | ![](/assets/Low-profile-2.jpg) | 
 
 
 
