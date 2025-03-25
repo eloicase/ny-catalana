@@ -232,7 +232,7 @@ S'han desenvolupat diferents _templates_ que s'adapten a teclats de diferents co
 
 - Keychron Launcher https://launcher.keychron.com/#/keymap
 
-- Ephemeral-t-shirts https://ephemeral-t-shirts.blogspot.com/
+- Ephemeral-t-shirts https://ephemeral-t-shirts.blogspot.com/2025/03/mantinc-el-catala-tambe-al-meu-teclat.html
 
 <a name="Comunitat"></a>
 ## Comunitat
