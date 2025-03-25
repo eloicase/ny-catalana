@@ -17,6 +17,12 @@
 
 ---
 
+
+
+https://github.com/user-attachments/assets/0266c233-3650-4e51-8972-6bc9fe587bf8
+
+
+
 <a name="Abstract"></a>
 ## Abstract
 El projecte **_NY_ Catalana** vol ser un repositori per centralitzar tots els recursos a fi de personalitzar el teclat QWERTY/llatí en castellà substituint la lletra **_Ñ_** pel dígraf **_NY_**.
